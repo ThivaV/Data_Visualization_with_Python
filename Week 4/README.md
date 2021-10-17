@@ -21,6 +21,6 @@
 1. Bowtie
 1. Flask
 
-![Dashboarding 1](./img/Week 4/Dashboarding_1.png)
+![Dashboarding 1](https://github.com/ThivaV/Data_Visualization_with_Python/blob/master/img/Week%204/Dashboarding_1.png)
 
-![Dashboarding 2](./img/Week 4/Dashboarding_2.png)
+![Dashboarding 2](https://github.com/ThivaV/Data_Visualization_with_Python/blob/master/img/Week%204/Dashboarding_2.png)
