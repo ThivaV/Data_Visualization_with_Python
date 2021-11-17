@@ -1,7 +1,5 @@
 # Week-4 - Web-based Dashboarding
 
-
-
 > Let's take a look at web-based dashboarding tool options available in Python. Dash is a python framework for building web analytic applications. It is written on top of Flask, Plotly.js, and React.js. Dash is well-suited for building data visualization apps with highly custom user interfaces.
 
 > Panel works with visualizations from Bokeh, Matplotlib, HoloViews, and many other Python plotting libraries, making them instantly viewable either individually or when combined with interactive widgets that control them. Panel works equally well in Jupyter Notebooks, for creating quick data-exploration tools. Panel can also be used in standalone deployed apps and dashboards, allowing you to easily switch between those contexts as needed. Voilà turns Jupyter notebooks into standalone web applications. It can be used with separate layout tools like jupyter-flex or templates like voila-vuetify. Streamlit can easily turn data scripts into shareable web apps with 3 main principles: embrace python scripting, treat widgets as variables, and reuse data and computation. There are other tools that can be used for dashboarding:
@@ -26,10 +24,8 @@
 1. Flask
 
 ___
-
-![Dashboarding 1](https://github.com/ThivaV/Data_Visualization_with_Python/blob/master/img/Week%204/Dashboarding_1.png)
-
-![Dashboarding 2](https://github.com/ThivaV/Data_Visualization_with_Python/blob/master/img/Week%204/Dashboarding_2.png)
+![Dashboarding 1](/img/week_4/Dashboarding_1.png) <br>
+![Dashboarding 2](/img/week_4/Dashboarding_2.png)
 ___
 
 ## 1. Introduction to Plotly

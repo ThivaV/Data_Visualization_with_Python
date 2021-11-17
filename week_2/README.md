@@ -1,3 +1,5 @@
+# Week-2
+
 ## <u>Basic Visualization Tools</u>
 
 - <b>Area Plots</b> or Stacked Line Plot
@@ -37,5 +39,6 @@ Note: There are two styles/options of plotting with matplotlib, plotting using t
 ![Scatter plot dot](/img/week_2/scatter_plot_dot.png "Scatter plot dot") <br>
 
 - <b>Bubble Plots</b>
+
 ![Bubble plot](/img/week_2/bubble_plot.png "Bubble plot") <br>
 ![Bubble plot 2](/img/week_2/bubble_plot_2.png "Bubble plot 2") <br>
