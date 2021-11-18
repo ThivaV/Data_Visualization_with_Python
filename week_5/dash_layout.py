@@ -33,7 +33,7 @@ app.layout = html.Div(children=[
             {'label': 'Montréal', 'value': 'MTL'},
             {'label': 'San Francisco', 'value': 'SF'}
         ],
-        value='NYC'  # Providing a vallue to dropdown
+        value='NYC'  # Providing a value to dropdown
     ),
 
     # Bar graph
